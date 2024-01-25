@@ -88,7 +88,7 @@ emotion_dict = {0: "Angry", 1: "Disgusted", 2: "Fearful", 3: "Happy", 4: "Neutra
 # start the webcam feed
 #video_capture = cv2.VideoCapture(0)
 
-video_capture = cv2.VideoCapture("C:\\Users\\DELL\\Downloads\\Sofya_ed.mp4")
+video_capture = cv2.VideoCapture("C:\\Users\\DELL\\Downloads\\video.mp4")
 
 while True:
     ## Reading the Video frame
