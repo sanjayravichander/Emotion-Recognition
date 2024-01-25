@@ -27,12 +27,10 @@ Gaming: Emotion detection is integrated into gaming systems to create more immer
 etc...
 # Requirements
 ```bash
-  pip install pandas
-  pip install numpy
-  pip install matplotlib.pyplot
-  pip install plotly
-  pip install seaborn
-  pip install streamlit
-  pip install PIL
-  pip install dtale
+  pip install opencv-python
+  pip install dlib
+  pip install face_recognition
+  pip install tensorflow
+  pip install torch torchvision
+  pip install mtcnn
 ```
