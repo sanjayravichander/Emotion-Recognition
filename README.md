@@ -36,23 +36,3 @@ etc...
   pip install PIL
   pip install dtale
 ```
-
-## Installation
-
---Clone my repository.
-
---Open CMD in working directory.
-
---Run following command.
-
-
-
-```bash
-  pip install -r requirements.txt
-
-```
-
---To run app, write following command in CMD.
-
-```bash
-  streamlit run Sentiment_Analysis_app.py
